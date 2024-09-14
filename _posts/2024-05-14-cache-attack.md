@@ -7,5 +7,5 @@ tags: [downfall, flushreload]
 pin: true
 ---
 
-I invite you to read the [report](/report/report_cache_attack.pdf) we made to understand the attack. To go further, you should read the [paper](https://downfall.page/) of M. Moghimi. Our GDS implementation is a modifed POC of the original one, you can try it [here](https://github.com/GZNOP/downfall_cache_attack.git).
+I invite you to read the [report](/assets/report/report_cache_attack.pdf) we made to understand the attack. To go further, you should read the [paper](https://downfall.page/) of M. Moghimi. Our GDS implementation is a modifed POC of the original one, you can try it [here](https://github.com/GZNOP/downfall_cache_attack.git).
 

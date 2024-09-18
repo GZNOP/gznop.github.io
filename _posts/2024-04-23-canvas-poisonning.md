@@ -2,7 +2,7 @@
 title: Canvas Defender Poisonning
 description: School project about privacy.
 author: [fabio, hilan, samu]
-date: 2024-05-01
+date: 2024-04-23
 tags: [privacy, fingerprints, canvas-defender]
 pin: true
 ---

@@ -1,0 +1,42 @@
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+# -------------------------------------
+# {author_id}:
+#   name: {full name}
+#   twitter: {twitter_of_author}
+#   url: {homepage_of_author}
+# -------------------------------------
+
+fabio:
+  name: Fabio Daussy
+  url: https://github.com/GZNOP/
+
+
+###
+# CACHE ATTACK
+
+gabin:
+  name: Gabin Lesaout
+  url: https://github.com/ErrorTeaPot/ 
+
+keylan:
+  name: Keylan Aachi
+  url: https://github.com/Kyllano/
+
+lois:
+  name: Lois Coursaut-Durand
+  url: https://github.com/NhaundarL/
+
+mati:
+  name: Matis Le Bihan
+  url: https://github.com/MatiBP/
+
+###
+# PRI
+
+samu:
+  name: Samuel Mauger
+  url: https://github.com/smaugerfr/
+
+hilan:
+  name: Hilan Meyran
+  url: https://github.com/ShawnHeyli/
